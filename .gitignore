@@ -8,3 +8,4 @@ templates/
 static/
 collected_static/
 *migrations/
+
